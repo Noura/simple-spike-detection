@@ -1,5 +1,6 @@
 This is designed to make it simple to detect spikes in a Bitalino EDA Sensor.
 2016 Noura Howell
+https://github.com/Noura/simple-spike-detection
 
 Usage Notes
 --------------------------------------------------------------------------------

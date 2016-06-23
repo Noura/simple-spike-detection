@@ -1,6 +1,7 @@
 /*
    EDA.h - for reading and detecting spikes in Bitalino EDA sensor
    2016 Noura Howell
+   https://github.com/Noura/simple-spike-detection
    */
 
 #ifndef EDA_h
