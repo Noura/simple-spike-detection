@@ -44,7 +44,6 @@ class EDA
 {
     public:
         EDA(void);
-        void init(int);
         void update(int);
         bool hasPeak(void);
 
